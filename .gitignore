@@ -1,3 +1,7 @@
+# User requested excludes
+backend/
+everything/
+
 # Python / Django
 __pycache__/
 *.pyc
