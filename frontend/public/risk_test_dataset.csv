@@ -1,0 +1,11 @@
+roll_number,name,email,course,semester,subject_name,marks_obtained,total_marks,attendance_percentage
+CRIT001,Critical Charlie,charlie@test.com,CS,5,Data Mining,35,100,55
+CRIT001,Critical Charlie,charlie@test.com,CS,5,Cloud Comp,38,100,52
+HIGH002,High Risk Harry,harry@test.com,CS,5,Data Mining,45,100,65
+HIGH002,High Risk Harry,harry@test.com,CS,5,Cloud Comp,42,100,68
+WARN003,Warning Wendy,wendy@test.com,CS,5,Data Mining,35,100,82
+WARN003,Warning Wendy,wendy@test.com,CS,5,Cloud Comp,32,100,80
+SAFE004,Safe Sarah,sarah@test.com,CS,5,Data Mining,88,100,92
+SAFE004,Safe Sarah,sarah@test.com,CS,5,Cloud Comp,90,100,95
+EDGE005,Edge Eddie,eddie@test.com,CS,5,Data Mining,58,100,74
+EDGE005,Edge Eddie,eddie@test.com,CS,5,Cloud Comp,59,100,73

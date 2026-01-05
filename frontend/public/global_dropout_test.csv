@@ -1,0 +1,21 @@
+roll_number,name,email,course,semester,subject_name,marks_obtained,total_marks,attendance_percentage
+D001,Dropout Dan,dan@test.com,CS,5,Data Mining,30,100,40
+D001,Dropout Dan,dan@test.com,CS,5,Cloud Comp,32,100,42
+D002,Absent Alice,alice@test.com,CS,5,Data Mining,75,100,20
+D002,Absent Alice,alice@test.com,CS,5,Cloud Comp,72,100,22
+D003,Failing Fred,fred@test.com,CS,5,Data Mining,20,100,85
+D003,Failing Fred,fred@test.com,CS,5,Cloud Comp,22,100,88
+W001,Risky Rita,rita@test.com,CS,5,Data Mining,55,100,70
+W001,Risky Rita,rita@test.com,CS,5,Cloud Comp,52,100,72
+W002,Slipping Sam,sam@test.com,CS,5,Data Mining,70,100,65
+W002,Slipping Sam,sam@test.com,CS,5,Cloud Comp,68,100,68
+W003,Average Andy,andy@test.com,CS,5,Data Mining,55,100,78
+W003,Average Andy,andy@test.com,CS,5,Cloud Comp,54,100,79
+S001,Scholar Steve,steve@test.com,CS,5,Data Mining,95,100,95
+S001,Scholar Steve,steve@test.com,CS,5,Cloud Comp,98,100,96
+S002,Regular Rob,rob@test.com,CS,5,Data Mining,75,100,85
+S002,Regular Rob,rob@test.com,CS,5,Cloud Comp,78,100,88
+S003,Borderline Bob,bob@test.com,CS,5,Data Mining,61,100,76
+S003,Borderline Bob,bob@test.com,CS,5,Cloud Comp,62,100,77
+S004,Perfect Paula,paula@test.com,CS,5,Data Mining,100,100,100
+S004,Perfect Paula,paula@test.com,CS,5,Cloud Comp,100,100,100
