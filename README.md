@@ -43,6 +43,12 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
+> **Note for current local setup:** If you are using the existing `python_env` folder, run:
+> ```powershell
+> ..\python_env\python.exe manage.py runserver
+> ```
+> (The `activate` script is missing from your local env, so use the executable directly).
+
 Install dependencies:
 
 ```bash
@@ -82,6 +88,11 @@ Start the development server:
 ```bash
 npm run dev
 ```
+
+> **Note for current local setup:** Since you are using a local `node_js` folder, you need to add it to your path temporarily so `vite` can find `node`. Run this single line command:
+> ```powershell
+> $env:PATH = "..\node_js;" + $env:PATH; npm run dev
+> ```
 
 The frontend will be running at `http://localhost:5173/` (or the port shown in your terminal).
 
